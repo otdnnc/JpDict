@@ -10,4 +10,4 @@ DerivedData/
 # `swift run jpdict-prepare` artifacts
 /jmdict-examples-eng-*.json.tgz
 /jmdict-examples-eng-*.json
-/jpdict.sqlite
+jpdict.sqlite

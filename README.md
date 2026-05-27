@@ -14,6 +14,20 @@ and looking up entries.
 
 ---
 
+## Example app
+
+A SwiftUI example app demonstrating JpDict on **iOS** and **macOS** lives in
+[`Examples/jpdictExample`](Examples/jpdictExample). Open
+`Examples/jpdictExample/jpdictExample.xcodeproj` in Xcode and run the
+`jpdictExample` scheme on either platform.
+
+<p align="center">
+  <img src="Images/ios1.png" alt="JpDict iOS example — search" width="320" />
+  <img src="Images/ios2.png" alt="JpDict iOS example — word detail" width="320" />
+</p>
+
+---
+
 ## Requirements
 
 - Swift **6.3+**
